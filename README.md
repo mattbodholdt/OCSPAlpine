@@ -1,7 +1,7 @@
 # OCSPAlpine
 Alpine container with SSL to run OCSP Responder
 
-Place required files in /var/containerdata/ocsp:
+Place required files in /var/containerdata/ocsp on the Docker host:
 
 -CA Index - index.txt
 
